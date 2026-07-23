@@ -1,0 +1,6 @@
+# AtomCode local-scope configs (machine-specific)
+.atomcode/local/
+
+# Playwright project
+node_modules/
+screenshot-*.png
