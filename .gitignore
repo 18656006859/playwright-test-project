@@ -4,3 +4,4 @@
 # Playwright project
 node_modules/
 screenshot-*.png
+test-results/
