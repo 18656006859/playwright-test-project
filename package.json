@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "echo 'No build step needed for Playwright project'"
+  },
   "dependencies": {
     "@playwright/test": "^1.61.1"
   }
